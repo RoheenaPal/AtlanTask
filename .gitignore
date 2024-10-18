@@ -1,0 +1,5 @@
+.env
+/node_modules
+LogisticsPlatform/backend/.env
+LogisticsPlatform/backend/node_modules
+LogisticsPlatform/logistics-frontend/node_modules
